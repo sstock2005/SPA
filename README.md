@@ -31,8 +31,8 @@ The **S**ecure **P**assword **A**pplication is an end-to-end encrypted server an
 
 ## Deployment
 
-To deploy this project you will need to setup MySQL and install [this database](https://google.com).
-You will also need to change the host variable in [Security.cs](https://google.com) if you don't want to just host it locally or on  a different port.
+To deploy this project you will need to setup MySQL and install [this database](https://github.com/sstock2005/SPA/raw/main/server/database.sql).
+You will also need to change the host variable in [Security.cs](https://github.com/sstock2005/SPA/blob/main/client/Security.cs) if you don't want to just host it locally or on  a different port.
 
 Then just start the server and you should be good to go!
 
