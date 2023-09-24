@@ -32,10 +32,15 @@ The **S**ecure **P**assword **A**pplication is an end-to-end encrypted server an
 
 3. Once a user clicks on a saved password to view more info and to copy the password, then and ONLY then will the client finally decrypt the password into plaintext.
 
-## Encryption Example
+## Examples
 <p align="center">
   <img src="https://raw.githubusercontent.com/sstock2005/SPA/main/encryption.png">
 Communication between client and server is encrypted.
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sstock2005/SPA/main/database_example.png">
+<br>Database Example. No plaintext passwords here!
 </p>
 
 ## Deployment
