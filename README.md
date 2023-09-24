@@ -1,6 +1,10 @@
 
 # SPA
 
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/sstock2005/SPA/main/emoji.png">
+</p>
+
 The **S**ecure **P**assword **A**pplication is an end-to-end encrypted server and client password manager that I wanted to see if I could make. It still has a long way to go but is functional for the time being.
 
 
