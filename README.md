@@ -7,6 +7,8 @@
 
 The **S**ecure **P**assword **A**pplication is an end-to-end encrypted server and client password manager that I wanted to see if I could make. It still has a long way to go but is functional for the time being.
 
+## Preview
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SMrAYdFVFSI/0.jpg)](https://www.youtube.com/watch?v=SMrAYdFVFSI)
 
 
 ## Features
